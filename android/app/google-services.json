@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "642935751205",
+    "project_id": "batch-14-ca67e",
+    "storage_bucket": "batch-14-ca67e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642935751205:android:b5bc6ab857af8064acb5cc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1096mj5CyUV8OUx-E8YuQptvjqDd8gfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642935751205:android:5480895fdfabd878acb5cc",
+        "android_client_info": {
+          "package_name": "com.example.live_score_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1096mj5CyUV8OUx-E8YuQptvjqDd8gfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642935751205:android:b307098b4b99782eacb5cc",
+        "android_client_info": {
+          "package_name": "com.example.module26assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1096mj5CyUV8OUx-E8YuQptvjqDd8gfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
