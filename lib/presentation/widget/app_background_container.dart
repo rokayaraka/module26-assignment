@@ -3,7 +3,6 @@ import 'package:module26assignment/core/app_colors.dart';
 
 class AppBackgroundContainer extends StatelessWidget {
   final Widget? child;
-
   const AppBackgroundContainer({super.key, this.child});
 
   @override

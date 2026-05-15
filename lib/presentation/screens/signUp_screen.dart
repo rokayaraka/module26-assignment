@@ -58,7 +58,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           const SizedBox(height: 40),
                           TextFormField(
                             controller: _emailController,
-                             style: TextStyle(color: textfieldInputColor),
+                             style: TextStyle(color: onlyWhite),
                             decoration: InputDecoration(
                               prefixIcon: Icon(
                                 Icons.email,
@@ -68,7 +68,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                               hintStyle: TextStyle(
                                 color: textFieldIconStringColor,
                               ),
-                              fillColor: textfieldFillColor,
+                              fillColor: White10,
                               filled: true,
                               border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(25),
@@ -125,7 +125,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           // const SizedBox(height: 20),
                           TextFormField(
                             controller: _passwordController,
-                             style: TextStyle(color: textfieldInputColor),
+                             style: TextStyle(color: onlyWhite),
                             decoration: InputDecoration(
                               prefixIcon: Icon(
                                 Icons.password,
@@ -135,7 +135,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                               hintStyle: TextStyle(
                                 color: textFieldIconStringColor,
                               ),
-                              fillColor: textfieldFillColor,
+                              fillColor: White10,
                               filled: true,
                               border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(25),
@@ -152,7 +152,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           const SizedBox(height: 20),
                           TextFormField(
                             controller: _confirmPasswordController,
-                             style: TextStyle(color: textfieldInputColor),
+                             style: TextStyle(color: onlyWhite),
                             decoration: InputDecoration(
                               prefixIcon: Icon(
                                 Icons.password,
@@ -162,7 +162,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                               hintStyle: TextStyle(
                                 color: textFieldIconStringColor,
                               ),
-                              fillColor: textfieldFillColor,
+                              fillColor: White10,
                               filled: true,
                               border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(25),
