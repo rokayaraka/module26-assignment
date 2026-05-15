@@ -6,6 +6,7 @@ final Color containerColor = Colors.white.withOpacity(0.06);
 final Color containerBorderColor = Colors.white.withOpacity(0.1);
 final Color textfieldFillColor =  Colors.white.withOpacity(0.10);
 final Color textFieldIconStringColor =  Colors.white.withOpacity(0.30);
+final Color textfieldInputColor = Colors.white;
 
 final Color buttonColor = Colors.purple.withOpacity(0.19);
 
